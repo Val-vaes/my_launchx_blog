@@ -5,6 +5,6 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 ---
 
 Mis expectativas de la Misión Backend son: 
--Aprender perfectamente qué es Git y Github 
+- Aprender perfectamente qué es Git y Github 
 - Aprender qué es Backend y cómo manejarlo 
 - Aprender NodeJS
